@@ -1,3 +1,5 @@
+# Hi
+
 # Astro Starter Kit: Basics
 
 ```sh
